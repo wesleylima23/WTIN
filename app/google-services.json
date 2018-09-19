@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "327103968315",
+    "firebase_url": "https://wtin-cfc43.firebaseio.com",
+    "project_id": "wtin-cfc43",
+    "storage_bucket": "wtin-cfc43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327103968315:android:0888127e77e69664",
+        "android_client_info": {
+          "package_name": "com.example.wesley.wtin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327103968315-d8sirvn80s225p1iv2md47nav7th1165.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wesley.wtin",
+            "certificate_hash": "0ca5e2de5f17fae9f88879d607f5a1234ea0a1b4"
+          }
+        },
+        {
+          "client_id": "327103968315-utufmo1f07rop1704rletfhvl2hl25gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhwY4pTmBVz3uS4nYm0wQcaw4BNRGLa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327103968315-utufmo1f07rop1704rletfhvl2hl25gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

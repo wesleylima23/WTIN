@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">WTIN</string>
+    <string name="hello_world">Hello World</string>
+    <string name="login">Login</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="Senha">senha</string>
+    <string name="Email">email</string>
+    <string name="nome">nome</string>
+    <string name="Logout">Log out</string>
+    <string name="config">Configurações</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="voltar">voltar</string>
+    <string name="Matches">Matches</string>
+    <string name="Enviar">Enviar</string>
+    <string name="hintMensagem">Digite a sua mensagem</string>
+    <string name="Telefone">Telefone</string>
+    <string name="homem">Homem</string>
+    <string name="mulher">Mulher</string>
+    <string name="hetero">Hetero</string>
+    <string name="homossexual">Homossexual</string>
+    <string name="bissexual">Bissexual</string>
+    <string name="telefone">Telefone</string>
+    <string name="todo">TODO</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Amigos">Amigos</string>
+    <string name="Relacionamento">Relacionamento</string>
+    <string name="Hetero">Hetero</string>
+    <string name="Homossexual">Homossexual</string>
+    <string name="Bissexual">Bissexual</string>
+    <string name="Esportes">Esportes</string>
+    <string name="Filmes">Filmes</string>
+    <string name="Musica">Música</string>
+    <string name="Proximidade">Raio de proximidade</string>
+
+    <string-array name="proximidades">
+        <item>Mundo</item>
+        <item>5 km</item>
+        <item>10 km</item>
+        <item>15 km</item>
+    </string-array>
+
+</resources>
